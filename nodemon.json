@@ -1,0 +1,7 @@
+{
+  "watch": ["src"],
+  "ext": "ts",
+  "ignore": ["src/**/*.spec.ts"],
+  "exec": "node --inspect=127.0.0.1:9227 -r ts-node/register  --expose_gc --max-old-space-size=8000 -- src/main.ts",
+  "env": {}
+}
