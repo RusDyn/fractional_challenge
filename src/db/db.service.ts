@@ -1,6 +1,6 @@
 import { Injectable } from '@nestjs/common';
-import { ApiKeyHistoryEntity } from '../../model/apiKeyHistory.entity';
-import { ApiKeyEntity } from '../../model/apiKey.entity';
+import { ApiKeyHistoryEntity } from '../model/apiKeyHistory.entity';
+import { ApiKeyEntity } from '../model/apiKey.entity';
 import { Repository } from 'typeorm';
 import { InjectRepository } from '@nestjs/typeorm';
 
