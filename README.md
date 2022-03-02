@@ -1,7 +1,8 @@
 ### Senior backend coding challenge for Fractional Art
 https://fractional.art/
 
-@fractional-company
+[@fractional-company](https://github.com/fractional-company/)
+
 ```
 1. Create an application with following requirements (anticipate large amounts of requests):
 - takes MSISDN as an input
