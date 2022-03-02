@@ -1,4 +1,4 @@
-###Senior backend coding challenge for Fractional Art
+### Senior backend coding challenge for Fractional Art
 https://fractional.art/
 
 @fractional-company
